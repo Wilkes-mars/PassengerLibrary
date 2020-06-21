@@ -1,0 +1,57 @@
+{
+  "pages":[
+    
+    "pages/library/blog",
+    "pages/metrix/canvas",
+    "pages/practice/testbank",
+    "pages/passenger/mine",
+    "pages/passenger/about/about",
+    "pages/passenger/about/log",
+
+    "pages/index/hello",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ccc",
+    "navigationBarTitleText": "Library",
+    "navigationBarTextStyle": "white",
+    "navigationStyle": "default",
+    "enablePullDownRefresh": true
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "uploadFile": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [{
+        "pagePath": "pages/metrix/canvas",
+        "text": "metrix",
+        "iconPath": "resource/images/coder.png",
+        "selectedIconPath": "resource/images/coder_urc.png"
+    }, {
+        "pagePath": "pages/practice/testbank",
+        "text": "题练",
+        "iconPath": "resource/images/test.png",
+        "selectedIconPath": "resource/images/test_urc.png"
+    }, {
+        "pagePath": "pages/library/blog",
+        "text": "Library",
+        "iconPath": "resource/images/blog.png",
+        "selectedIconPath": "resource/images/blog_urc.png"
+    }, {
+        "pagePath": "pages/passenger/mine",
+        "text": "我的",
+        "iconPath": "resource/images/mine.png",
+        "selectedIconPath": "resource/images/mine_urc.png"
+    }],
+    "color": "#000000",
+    "selectedColor": "green"
+}
+}

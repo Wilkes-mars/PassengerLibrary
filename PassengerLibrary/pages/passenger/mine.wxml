@@ -1,0 +1,42 @@
+<!--pages/passenger/mine.wxml-->
+
+<scroll-view scroll-y class="scrollPage">
+  <view class="padding flex text-center text-grey bg-white shadow-warp">
+    <view class="flex flex-sub flex-direction solid-right">
+      
+    </view>
+    <view class="flex flex-sub flex-direction solid-right">
+      
+    </view>
+    <view class="flex flex-sub flex-direction">
+      
+    </view>
+  </view>
+  <view class="cu-list menu card-menu margin-top-xl margin-bottom-xl shadow-lg radius">
+    <view class="cu-item arrow">
+      <button class="cu-btn content" bindtap="onUpdateRecordButton">
+        <text class="cuIcon-formfill text-green"></text>
+        <text class="text-grey">更新日志</text>
+      </button>
+    </view>
+    <view class="cu-item arrow">
+      <button class="cu-btn content" bindtap="onRewardQrcode">
+        <text class="cuIcon-appreciatefill text-red"></text>
+        <text class="text-grey">赞赏支持</text>
+      </button>
+    </view>
+    <view class="cu-item arrow">
+      <button class="cu-btn content" open-type="feedback">
+        <text class="cuIcon-writefill text-cyan"></text>
+        <text class="text-grey">意见反馈</text>
+      </button>
+    </view>
+    <view class="cu-item arrow">
+      <button class="cu-btn content" bindtap="onAboutButton">
+        <text class="cuIcon-emoji text-cyan"></text>
+        <text class="text-grey">关于</text>
+      </button>
+    </view>
+  </view>
+  <view class="cu-tabbar-height"></view>
+</scroll-view>

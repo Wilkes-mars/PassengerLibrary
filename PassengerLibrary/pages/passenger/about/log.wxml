@@ -1,0 +1,22 @@
+<!--pages/passenger/about/log.wxml-->
+
+
+<view class="cu-timeline">
+
+  <view class="cu-item text-green">
+    <view class="bg-green content shadow">
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-green">
+        </view>
+        <view class="cu-tag line-white">
+        </view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view>
+          初级测试版本0.1
+        </view>
+      </view>
+    </view>
+  </view>
+
+</view>

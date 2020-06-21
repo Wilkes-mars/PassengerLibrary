@@ -1,0 +1,7 @@
+/* pages/metrix/canvas.wxss */
+
+.canvas-test{
+  width: 100vw;
+  height: 100vh;
+  background:black;
+}

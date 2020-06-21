@@ -1,0 +1,3 @@
+<!--pages/metrix/canvas.wxml-->
+
+<canvas class="canvas-test" canvas-id="thirdCanvas"></canvas>

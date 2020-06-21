@@ -1,0 +1,9 @@
+<!--pages/index/hello.wxml-->
+
+<view class='container'>
+<image class='avatar' src="../../resource/images/me.png"></image>
+<text class='motto'>Hello 小程序</text>
+<view class='journey-container'>
+<text class='journey'>开启小程序之旅</text>
+</view>
+</view>

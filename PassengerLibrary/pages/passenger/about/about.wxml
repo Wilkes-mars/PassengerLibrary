@@ -1,0 +1,21 @@
+<!--pages/passenger/about/about.wxml-->
+
+
+<view class='margin-xl bg-white padding-xl radius shadow-lg'>
+  <view class='text-center margin-bottom text-lg  text-grey'>关于</view>
+  <view class='text-content'>
+    <view>Hi！欢迎使用！</view>
+    <view class='margin-top-sm'>
+
+    </view>
+    <view class='margin-top-sm'>
+    
+    </view>
+    <view class='margin-top-sm'>
+    
+    </view>
+    <view class='margin-top-sm' style="text-align:right;">
+    by,灏闻政
+    </view>
+  </view>
+</view>
