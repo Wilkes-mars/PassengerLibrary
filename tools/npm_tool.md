@@ -9,7 +9,7 @@
 ##### 右键Git Bash Here
 > npm init
 
-![alt ](https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/001.png "git bash")
+![](https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/001.png "git bash")
 ##### 生成 package.json 文件
 ##### 打开 mini-sir-wechat 项目
 
@@ -34,7 +34,7 @@ npm install --save-dev babel-preset-stage-0
 ```code
 npm install webpack@3.5.5 webpack-cli@2.0.14 webpack-dev-server@2.7.1 webpack-merge@4.1.0 copy-webpack-plugin@4.0.1
 ```
-![alt ](https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/002.png "vscode")
+![](https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/002.png "vscode")
 
 项目目录构建
 - 其中 src文件夹（项目开发文件都在其中），然后分别在里面新建 assets component es6 pages utils app.js  app.json app.wxss
